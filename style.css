@@ -1,0 +1,172 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+	font-size:16px;
+	font-family:sace-sarif;
+	box-sizing:broder-box;
+}
+img{
+	vertical-align:middle;
+	
+}
+a{
+	text-decoration:none;
+	
+}
+ol,ul{
+	list-style:none;
+}	
+.main{
+	width:500px;
+	height:500px;
+	background:black;
+	margin:20px auto;
+}
+.col1{
+	width: 250px;
+	height: 500px;
+	background: #FDA7DF;
+	float: left;
+}
+.row1{
+	width:250px;
+	height:100px;
+	background:#e056fd;
+	
+}
+.col-1{
+	width:50px;
+	height:100px;
+	background:#4834d4;
+	float:left;
+}
+.col-2{
+	width:50px;
+	height:100px;
+	background:red;
+	float:left;
+}
+.col-3{
+	width:50px;
+	height:100px;
+	background:#6ab04c;
+	float:left;
+}
+.col-4{
+	width:50px;
+	height:100px;
+	background:#f9ca24;
+	float:left;
+}
+.col-5{
+	width:50px;
+	height:100px;
+	background:#38ada9;
+	float:left;
+}
+.row2{
+	width:250px;
+	height:400px;
+	background:hotpink;
+}
+.row-5{
+	width:250px;
+	height:50px;
+	background:black;
+}
+.row-6{
+	width:250px;
+	height:50px;
+	background:#FC427B;
+}
+.row-7{
+	width:250px;
+	height:50px;
+	background:#55E6C1;
+}
+.row-8{
+	width:250px;
+	height:50px;
+	background:#EA2027;
+}
+.row-9{
+	width:250px;
+	height:50px;
+	background:#3B3B98;
+}.row-10{
+	width:250px;
+	height:50px;
+	background:#009432;
+}
+.row-11{
+	width:250px;
+	height:100px;
+	background:#0652DD;
+	float:left;
+}
+.col-6{
+	width:50px;
+	height:100px;
+	background:#12CBC4;
+	float:left;
+}
+.col-7{
+	width:50px;
+	height:100px;
+	background:red;
+	float:left;
+}
+.col-8{
+	width:50px;
+	height:100px;
+	background:#B53471;
+	float:left;
+}.col-9{
+	width:50px;
+	height:100px;
+	background:#C4E538;
+	float:left;
+}.col-10{
+	width:50px;
+	height:100px;
+	background:#0652DD;
+	float:left;
+}
+.col-11{
+	width:50px;
+	height:100px;
+	background:red;
+	float:left;
+}
+
+.col2{
+	width: 250px;
+	height: 500px;
+	background: #FFC312;
+	float: left;
+}
+.row3{
+	width:250px;
+	height:100px;
+	background:black;
+	float:left;
+}
+.col-12{
+	width:100px;
+	height:100px;
+	background:#009432;
+	float:left;
+}	
+.col-13{
+	width:50px;
+	height:100px;
+	background:yellow;
+	float:left;
+}
+.col-14{
+	width:100px;
+	height:100px;
+	background:#009432;
+	float:left;
+}
